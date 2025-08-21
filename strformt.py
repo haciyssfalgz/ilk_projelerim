@@ -21,3 +21,4 @@ print(sonuç4)
 sonuç5 = f"{miktar} kilo {urun_adi} için {miktar*fiyat} tl öde"
 
 print(sonuç5)
+print(sonuç1,sonuç2,sonuç3,sonuç4,sonuç5)#en son hepsi yanyana yazacak
