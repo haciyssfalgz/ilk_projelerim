@@ -1,5 +1,4 @@
 mesaj=input("mesaj gir ")
-
 mesaj = mesaj.lower()
 mesaj = mesaj.title()
 print(mesaj)
