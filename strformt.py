@@ -1,4 +1,4 @@
-urun_adi = "elma "
+urun_adi = "elma"
 fiyat= 15 
 miktar = 5.0
 
