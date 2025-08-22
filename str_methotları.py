@@ -58,3 +58,4 @@ print(sonuc18)
 sonuc19 = msg.center(100,"*") #mesajı 100 karaktere tamamlar ve ortalar, boşlukları * ile doldurur
 print("sonuc19")
 print(sonuc19)
+#teşekkürler Sadık Turan
