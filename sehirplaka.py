@@ -175,6 +175,3 @@ while True:
         print(sehirler2.get(veri,"böyle bir şehir yok"))
     else:
         print("hatalı giriş yaptınız")
-
-# while True:
-    # print(sehirler.get(input("plaka kodu giriniz: "),"böyle bir plaka kodu yok"))
