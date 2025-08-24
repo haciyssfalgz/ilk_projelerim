@@ -91,4 +91,5 @@ sehirler = {
     "80": "Osmaniye",
     "81": "Düzce"
 }
-print(sehirler.get(input("plaka kodu giriniz: "),"böyle bir plaka kodu yok"))
+while True:
+    print(sehirler.get(input("plaka kodu giriniz: "),"böyle bir plaka kodu yok"))
